@@ -104,8 +104,8 @@
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /><p><strong>'+ v.name +'</strong></p></div>\
-				<div class="back"><img src="card_back_horse.png"\
-				alt="Codepen" /></div></div>\
+				<div class="back"><img src="cards/card_back_horse.png"\
+				alt="card" /></div></div>\
 				</div>';
 			});
 			return frag;
